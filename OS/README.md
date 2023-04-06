@@ -13,7 +13,7 @@ ex) Window, Linux, Unix, MS-DOS 등
 
 ### [Process]()
 
-### [Thread]()
+### [Thread](https://github.com/wonil-programmer/TIL/tree/main/OS/Thread)
 
 - 공통점
     - 논리적 제어 흐름
